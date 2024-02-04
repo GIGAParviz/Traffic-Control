@@ -1,0 +1,6 @@
+# Usage: pip install -r requirements.txt
+ultralytics>=8.0.235
+supervision>=0.17.1
+opencv-python>=4.8.1.78
+numpy>=1.24.3
+argoarse>=1.4.0
